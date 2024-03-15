@@ -17,7 +17,7 @@ Note:
 --------------------------------------------------------------------------------------------------------------------------------------
 Here are the contents of the zip folder (very similar to the one I have on my OneDrive):
 
-Keras_Model - Includes the exact same ANN Model I have been using for my model (So I do not need to retrain the neural network)
+file_name.keras - Includes the exact same ANN Model I have been using for my model (So I do not need to retrain the neural network)
 
 src - I used this python file to run my code for every synthetic dataset one by one and record my resuls
 
