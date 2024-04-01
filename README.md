@@ -18,8 +18,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Tools
-- Anaconda (Python 3.9.18)
-- Jupyter Notebook
+- Anaconda (Python v3.9.18)
+- Jupyter Notebook (v7.0.8)
 
 ### Prerequisites
 + scikit-learn (v1.2.2)
