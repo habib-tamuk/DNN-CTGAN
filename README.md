@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 + keras (v2.12.0)
 + tensorflow (v2.12.0)
 + ydata-synthetic (v1.3.1)
-+ pickle
++ pickle (v0.7.5)
 + seaborn (v0.13.2)
     
 ## Download and install code
