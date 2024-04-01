@@ -18,17 +18,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Tools
-Anaconda (Python 3.6)
-Jupyter Notebook
+- Anaconda (Python 3.6)
+- Jupyter Notebook
 
 ### Prerequisites
-scikit-learn (v1.2.2)
-matplotlib (v3.7.4)
-numpy
-pandas (v2.0.3)
-keras (v2.12.0)
-tensorflow (v2.12.0)
-ydata-synthetic (v1.3.1)
++ scikit-learn (v1.2.2)
++ matplotlib (v3.7.4)
++ numpy
++ pandas (v2.0.3)
++ keras (v2.12.0)
++ tensorflow (v2.12.0)
++ ydata-synthetic (v1.3.1)
     
 ## Download and install code
 
