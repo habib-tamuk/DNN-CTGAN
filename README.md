@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Retrieve the code
 
 ```
-git clone https://github.com/habib-tamuk/DNN-CTGAN.git
+git clone [https://github.com/habib-tamuk/DNN-CTGAN.git](https://github.com/habib-tamuk/DNN-CTGAN.git)
 
 ```
 
