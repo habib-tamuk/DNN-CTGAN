@@ -28,7 +28,7 @@ The dataset can be found inside the dataset repository.
 + pandas (v2.0.3)
 + keras (v2.12.0)
 + tensorflow (v2.12.0)
-+ ydata-synthetic (v1.3.1)
++ ydata-synthetic (v1.3.1) https://docs.synthetic.ydata.ai/1.3/
 + pickle (v0.7.5)
 + seaborn (v0.13.2)
     
