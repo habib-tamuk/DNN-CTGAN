@@ -15,7 +15,7 @@ Enhancing Intrusion Detection through Deep Learning and Generative Adversarial N
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Datasets
-
+The dataset can be found inside the dataset repository.
 
 ### Tools
 - Anaconda (Python v3.9.18)
